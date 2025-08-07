@@ -25,9 +25,10 @@
 3. MCP (Multi-Context Prompting)
    - **Description**: Interact with other sources for information retrieval.
    - Examples include:
-     - **AWS**: Used to get aws latest knowledge base and run aws api commands.
-     - **GitHub**: Interact with GitHub repositories to retrieve code and documentation.
-     - **Jenkins**: To trigger the jenkins jobs, retrieve job status and logs.
+     - **AWS**: Used to get aws latest knowledge base and run aws api commands. [AWS MCP Server](https://awslabs.github.io/mcp/)
+     - **GitHub**: Interact with GitHub repositories to retrieve code and documentation.[GitHub MCP Server](https://github.com/github/github-mcp-server)
+     - **Jenkins**: To trigger the jenkins jobs, retrieve job status and logs.[Jenkins MCP Plugin](https://plugins.jenkins.io/mcp-server/)
+  Other MCP servers can be found [MCP Servers Repo](https://github.com/modelcontextprotocol/servers/tree/main/src)
 
 ## Reference
 
