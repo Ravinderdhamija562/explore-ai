@@ -31,5 +31,5 @@
 
 ## Reference
 
-[langgraph-crash-course](https://github.com/codebasics/langgraph-crash-course)
-[Agentic AI](https://www.youtube.com/watch?v=15_pppse4fY&list=PLeo1K3hjS3utjalsQ32f6fYcLkWvf3-rA&index=6)
+- [langgraph-crash-course](https://github.com/codebasics/langgraph-crash-course)
+- [Agentic AI](https://www.youtube.com/watch?v=15_pppse4fY&list=PLeo1K3hjS3utjalsQ32f6fYcLkWvf3-rA&index=6)
